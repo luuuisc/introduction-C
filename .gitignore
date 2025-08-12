@@ -1,0 +1,61 @@
+# ========================================
+# Archivos y carpetas generados por macOS
+# ========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# ========================================
+# Archivos y carpetas de compilación C/C++
+# ========================================
+# Binarios y ejecutables
+*.o
+*.out
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# Carpetas de depuración y símbolos (macOS y Xcode)
+*.dSYM/
+*.dSYM.zip
+*.DSYM
+*.DSYM.zip
+
+# ========================================
+# Archivos generados por GCC/Clang
+# ========================================
+*.gcda
+*.gcno
+*.gcov
+
+# ========================================
+# VSCode
+# ========================================
+.vscode/
+.history/
+*.code-workspace
+
+# ========================================
+# Archivos temporales
+# ========================================
+*~
+*.swp
+*.swo
+*.tmp
+*.log
+
+# ========================================
+# Ejemplos específicos del curso
+# ========================================
+# Ejecutables compilados
+helloWorld
