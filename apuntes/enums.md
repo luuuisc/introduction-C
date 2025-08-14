@@ -2,7 +2,7 @@
 
 Un `enum` (enumeración) te permite **definir constantes enteras con nombre** agrupadas por tema (estados, categorías, opciones de menú, etc.). Mejora la legibilidad y evita usar “números mágicos”.
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > En C, los enumeradores son **constantes de tipo entero** (no strings). El **primer** valor es `0` por defecto y los siguientes **incrementan de 1**, salvo que asignes valores explícitos.
 
 ---
