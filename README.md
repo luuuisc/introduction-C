@@ -28,7 +28,7 @@ Este repositorio contiene los ejercicios, proyectos y apuntes realizados durante
 2. **Compilar un programa**
 
    ```bash
-   gcc ejercicios/helloWorld.c -o helloWorld
+   gcc scripts/helloWorld.c -o helloWorld
    ```
 
 3. **Ejecutar**
